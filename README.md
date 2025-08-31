@@ -174,3 +174,13 @@ document.head.appendChild(s);
 
 ## 许可证
 仅用于内部数据采集与测试用途。
+
+
+
+```mermaid
+erDiagram
+    ENTITY1 ||--|| APP : ""
+    ENTITY2 ||--|| APP : ""
+    ENTITY3 ||--|| APP : ""
+    ENTITY4 }|..| APP : ""
+```
